@@ -16,8 +16,6 @@ CAPITULO 7
 
 VIDEO
 
-https://youtu.be/0PdWykbMPPg
- 
 CONCLUSIONES 
 
 
