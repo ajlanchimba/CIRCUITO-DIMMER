@@ -1,2 +1,27 @@
-# CIRCUITO-DIMMER
-Construcción del circuito dimmer
+# Informe-de-Trea-4
+OBJETIVO GENERAL 
+
+OBJETIVO ESPECIFICO
+
+
+MARCO TEORICO
+
+
+
+RESOLUCION DE EERCICIOS 
+
+CAPITULO 7
+
+
+
+VIDEO
+
+https://youtu.be/0PdWykbMPPg
+ 
+CONCLUSIONES 
+
+
+
+BOBLIOGRAFIAS 
+
+
