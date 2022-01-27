@@ -17,6 +17,7 @@
 
 |Cantidad|Elemento|
 |----|----|
+| :--: | :--: |
 |1|Resistor 1kΩ|
 |1|Resistor 10kΩ|
 |1|Diac DB3|
