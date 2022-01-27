@@ -64,6 +64,16 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151397669-bf7c8cd2-4af4-4f0c-b91b-d36e3b86e683.png)
 
+3.2.8. Para la boquilla del foco
+
+      - Se conecta al puerto del neutro de la boquilla el cable que viene directo de la fuente.
+      - Al puerto de fase de la boquilla se conecta un cable el cual será conectado a la línea positiva del protoboard.
+
+![image](https://user-images.githubusercontent.com/93899658/151400732-c0ba8477-785a-4ffd-b657-2a0c33181b04.png)
+
+
+
+3.2.9. 
 
 4. VIDEO
 
