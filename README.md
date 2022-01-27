@@ -1,18 +1,22 @@
 # CIRCUITO DIMMER
-OBJETIVO GENERAL 
+1. OBJETIVOS
+1.1  OBJETIVO GENERAL 
 
-OBJETIVO ESPECIFICO
+1.2  OBJETIVO ESPECIFICO
 
 
 
-MARCO TEORICO
+2. MARCO TEORICO
 
 ![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93899658/151303877-f89523af-746d-4fea-83a0-2d218dc6a9bf.png)
 
 
-EXPLICACIÓN DEL PROCEDIMIENTO
+3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-1. Para la construccion del circuto dimmer, se siguio las instrucciones del siguiente circuito.
+3.1. Materiales y equipo requerido
+|Cantidad|Elemento|
+|----|----|
+
 
 ![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
 
