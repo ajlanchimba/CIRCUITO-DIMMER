@@ -6,6 +6,7 @@ OBJETIVO ESPECIFICO
 
 MARCO TEORICO
 
+![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93899658/151303877-f89523af-746d-4fea-83a0-2d218dc6a9bf.png)
 
 
 RESOLUCION DE EERCICIOS 
