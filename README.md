@@ -25,6 +25,7 @@
 |1|Capacitor cerámico 10 nF|
 |1|Potenciometro de 500kΩ|
 |1|Protoboard|
+|1|Foco de 110V y 9W|
 
 
 ![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
