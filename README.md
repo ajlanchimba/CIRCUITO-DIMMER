@@ -36,7 +36,9 @@
 ![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
 `Figura 1: diagrama del circuito Dimmer` 
 
-
+3.2.2. Ubicamos el potenciometro identificando cada terminarl
+![IMG_20220127_070206](https://user-images.githubusercontent.com/93899658/151380814-66bcb786-1826-477a-af94-5a4e8fdfb0c3.jpg)
+![IMG_20220127_070225](https://user-images.githubusercontent.com/93899658/151380922-e1c535a2-1c77-4ef2-bdb7-c91ec2915edf.jpg)
 
 
 4. VIDEO
