@@ -1,8 +1,8 @@
 # CIRCUITO DIMMER
 1. OBJETIVOS
-1.1 OBJETIVO GENERAL 
+1.1. OBJETIVO GENERAL 
 
-1.2 OBJETIVO ESPECIFICO
+1.2. OBJETIVO ESPECIFICO
 
 
 
@@ -33,13 +33,13 @@
 
 
 
-VIDEO
+4. VIDEO
 
-CONCLUSIONES 
+5. CONCLUSIONES 
 
 
 
-BOBLIOGRAFIAS 
+6. BOBLIOGRAFIAS 
 
 - areatecnologia.com. (s.f.). AREATECNOLOGIA. Obtenido de TRIAC: https://www.areatecnologia.com/electronica/triac.html
 
