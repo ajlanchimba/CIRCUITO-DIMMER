@@ -22,7 +22,7 @@
 |1|Diac DB3|
 |1|Triac BTA12|
 |1|Capacitor cerámico 47 nF|
-|1|Capacitor cerámico 10 nF|
+|1|Capacitor cerámico 100 nF|
 |1|Potenciometro de 500kΩ|
 |1|Protoboard|
 |1|Boquilla foco|
@@ -43,7 +43,7 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151382443-294d88fd-c22e-4ac8-bc92-5d5bc708730b.png)
 
-3.2.4. Se conecta el capacitor cerámico de 47 nF y de 10 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
+3.2.4. Se conecta el capacitor cerámico de 47 nF y de 100 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
 
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
