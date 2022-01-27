@@ -27,8 +27,10 @@
 |1|Protoboard|
 |1|Foco de 110V y 9W|
 
-
+3.2. Procedimiento
+3.2.1. Armar el circuito mostrado en la figura 1
 ![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
+`Figura 1: diagrama del circuito Dimmer` 
 
 
 
