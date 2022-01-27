@@ -64,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151397669-bf7c8cd2-4af4-4f0c-b91b-d36e3b86e683.png)
 
-3.2.8. Para la boquilla del foco
+3.2.8. Para la boquilla del foco.
 
       - Se conecta al puerto del neutro de la boquilla el cable que viene directo de la fuente.
       - Al puerto de fase de la boquilla se conecta un cable el cual será conectado a la línea positiva del protoboard.
@@ -72,8 +72,19 @@
 ![image](https://user-images.githubusercontent.com/93899658/151400732-c0ba8477-785a-4ffd-b657-2a0c33181b04.png)
 
 
+3.2.9. Se encaja el foco. 
 
-3.2.9. 
+![image](https://user-images.githubusercontent.com/93899658/151401859-048d0af7-b134-4b0a-b71d-b5e083ceb572.png)
+
+3.2.10. Conectamos los terminales en la protoboard.
+
+      - El terminal que sale del foco se conecta a la línea del positivo del protoboard.
+      - El terminal que viene directo de la fuente de C.A. se conecta a la línea del negativo del protoboard.
+
+![image](https://user-images.githubusercontent.com/93899658/151402823-599f23b5-1e62-450f-922a-fbee4816757f.png)
+
+
+
 
 4. VIDEO
 
