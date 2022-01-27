@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
-3.2.5 Se conectan el diac y el triac, luego se conectan los tres terminales del triac. La compuerata G se conecta con el diac, el segundo terminal se conecta a la linea del resistor de 1 kΩ y el primer terminar se conecta en la linea de los capacitores ceramicos.
+3.2.5 Se conectan el diac y el triac, luego se conectan los tres terminales del triac. La compuerata G se conecta con el diac, el segundo terminal se conecta a la linea del resistor de 1 kΩ y el primer terminal se conecta en la linea de los capacitores cerámicos.
 
 ![image](https://user-images.githubusercontent.com/93899658/151384687-fff255ed-1bd0-4ea2-af22-0bb297588409.png)
 
