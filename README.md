@@ -83,7 +83,12 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151402823-599f23b5-1e62-450f-922a-fbee4816757f.png)
 
+3.2.11. Se conecta a la fuente de corriente alterna de 110 V a 60 Hz.
 
+      - Se comienza a regular el potenciometro hasta que alcanza el voltaje suficiente para que logre encender el foco.
+      - Al regular se puede modifica la intencidad luminica del foco.
+
+![image](https://user-images.githubusercontent.com/93899658/151414839-bc2af994-ee6e-4657-b1f7-5fa2933a21ee.png)
 
 
 4. VIDEO
