@@ -4,6 +4,7 @@ OBJETIVO GENERAL
 OBJETIVO ESPECIFICO
 
 
+
 MARCO TEORICO
 
 ![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93899658/151303877-f89523af-746d-4fea-83a0-2d218dc6a9bf.png)
@@ -11,6 +12,9 @@ MARCO TEORICO
 
 EXPLICACIÓN DEL PROCEDIMIENTO
 
+1. Para la construccion del circuto dimmer, se siguio las instrucciones del siguiente circuito.
+
+![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
 
 
 
