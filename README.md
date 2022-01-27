@@ -36,8 +36,16 @@
 ![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
 `Figura 1: diagrama del circuito Dimmer` 
 
-3.2.2. Ubicamos el potenciometro identificando cada terminarl
+3.2.2. Se ubicama el potenciometro en el protoboard identificando cada terminal
 ![image](https://user-images.githubusercontent.com/93899658/151381454-b4fafdd1-a158-49a2-b47b-61b40858d8d9.png)
+
+3.2.3. En la terminal dos del potenciometro se conecta el Resistor de 1kΩ
+
+![image](https://user-images.githubusercontent.com/93899658/151382443-294d88fd-c22e-4ac8-bc92-5d5bc708730b.png)
+
+3.2.4. Se conecta el capacitor Capacitor cerámico de 47 nF y de 10 nF en paralelo con el terminal tres del potenciometro.
+
+![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
 
 
