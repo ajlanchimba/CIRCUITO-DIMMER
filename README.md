@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
-3.2.5. Se conectan el diac y el triac
+3.2.5. Se conectan el diac y el triac.
 
       - El segundo terminal del triac se conecta a la linea del resistor de 1 kΩ
       - La compuerata G se conecta con el diac 
@@ -59,6 +59,10 @@
 3.2.6. Para mayor facilidad se conecta en la linea de la resistencia positiva y en la linea negativa de los capacitores dos cables para realizar una extension.
 
 ![image](https://user-images.githubusercontent.com/93899658/151397038-cf97ff7d-a945-42d4-945a-0a70d557de42.png)
+
+3.2.7. Conexión completa del circuito en el protoboard.
+
+![image](https://user-images.githubusercontent.com/93899658/151397669-bf7c8cd2-4af4-4f0c-b91b-d36e3b86e683.png)
 
 
 4. VIDEO
