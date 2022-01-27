@@ -56,7 +56,10 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151384687-fff255ed-1bd0-4ea2-af22-0bb297588409.png)
 
-3.2.6. 
+3.2.6. Para mayor facilidad se conecta en la linea de la resistencia positiva y en la linea negativa de los capacitores dos cables para realizar una extension.
+
+![image](https://user-images.githubusercontent.com/93899658/151397038-cf97ff7d-a945-42d4-945a-0a70d557de42.png)
+
 
 4. VIDEO
 
