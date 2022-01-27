@@ -43,11 +43,14 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151382443-294d88fd-c22e-4ac8-bc92-5d5bc708730b.png)
 
-3.2.4. Se conecta el capacitor Capacitor cerámico de 47 nF y de 10 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
+3.2.4. Se conecta el capacitor cerámico de 47 nF y de 10 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
 
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
-3.2.5 Se conectan el diac y el triac, luego se conectan los tres terminales del triac. La compuerata G se conecta con el diac, el segundo terminal se conecta a la linea del resistor de 1 kΩ y el primer terminal se conecta en la linea de los capacitores cerámicos.
+3.2.5 Se conectan el diac y el triac
+      - El segundo terminal del triac se conecta a la linea del resistor de 1 kΩ
+      - El primer terminal se conecta en la linea de los capacitores cerámicos.
+      - El la compuerata G se conecta con el diac, 
 
 ![image](https://user-images.githubusercontent.com/93899658/151384687-fff255ed-1bd0-4ea2-af22-0bb297588409.png)
 
