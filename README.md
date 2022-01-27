@@ -6,10 +6,10 @@
 
 
 
+
 2. MARCO TEORICO
 
-![Diagrama en blanco (6)](https://user-images.githubusercontent.com/93899658/151303877-f89523af-746d-4fea-83a0-2d218dc6a9bf.png)
-
+![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93899658/151405640-8e57000a-c158-4143-b8bb-8c8b5e6ea4eb.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
