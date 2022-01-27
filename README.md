@@ -48,6 +48,7 @@
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
 3.2.5 Se conectan el diac y el triac
+
       - El segundo terminal del triac se conecta a la linea del resistor de 1 kΩ
       - El primer terminal se conecta en la linea de los capacitores cerámicos.
       - El la compuerata G se conecta con el diac, 
