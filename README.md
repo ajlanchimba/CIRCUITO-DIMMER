@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
-3.2.5 Se conectan el diac y el triac
+3.2.5. Se conectan el diac y el triac
 
       - El segundo terminal del triac se conecta a la linea del resistor de 1 kΩ
       - La compuerata G se conecta con el diac 
@@ -56,6 +56,7 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151384687-fff255ed-1bd0-4ea2-af22-0bb297588409.png)
 
+3.2.6. 
 
 4. VIDEO
 
