@@ -25,7 +25,7 @@
 |1|Capacitor cerámico 10 nF|
 |1|Potenciometro de 500kΩ|
 |1|Protoboard|
-|1|Boqulla foco|
+|1|Boquilla foco|
 |1|Foco de 110V y 9W|
 |1|Clavija|
 |1|Fuente de C.A. 110V y 60 Hz|
