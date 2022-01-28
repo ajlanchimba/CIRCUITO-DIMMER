@@ -6,7 +6,7 @@
 
 - Investigar y comprender el funcionamiento de un circuito Dimmer mediante la construcción del mismo.   
 
-1.2. OBJETIVOS ESPECÍFICOS
+##### 1.2. OBJETIVOS ESPECÍFICOS
 
 - Ampliar la vision del estudiante con la elaboracion de un circuito en forma fisica aplicando conocimientos teoricos y enfrentarlo a los posibles inconvenientes que surguen al momento de construir cualquier circuito.
 - Profundizar en los usos y aplicaciones de cada elemento utilizado en el circuito Dimmer.
@@ -19,7 +19,7 @@
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.1. Materiales y equipo requerido
+##### 3.1. Materiales y equipo requerido
 
 |Cantidad|Elemento|
 |----|----|
@@ -36,24 +36,24 @@
 |1|Clavija|
 |1|Fuente de V.A. 110V y 60 Hz|
 
-3.2. Procedimiento
+##### 3.2. Procedimiento
 
-3.2.1. Armar el circuito mostrado en la figura 1
+##### 3.2.1. Armar el circuito mostrado en la figura 1
 ![image](https://user-images.githubusercontent.com/93899658/151352207-e222e557-b470-4bef-ae52-4c6ee086a0bd.png)
 `Figura 1: diagrama del circuito Dimmer` 
 
-3.2.2. Se ubicama el potenciometro en el protoboard identificando cada terminal
+##### 3.2.2. Se ubicama el potenciometro en el protoboard identificando cada terminal
 ![image](https://user-images.githubusercontent.com/93899658/151381454-b4fafdd1-a158-49a2-b47b-61b40858d8d9.png)
 
-3.2.3. En la terminal dos del potenciometro se conecta el Resistor de 1kΩ
+##### 3.2.3. En la terminal dos del potenciometro se conecta el Resistor de 1kΩ
 
 ![image](https://user-images.githubusercontent.com/93899658/151382443-294d88fd-c22e-4ac8-bc92-5d5bc708730b.png)
 
-3.2.4. Se conecta el capacitor cerámico de 47 nF y de 100 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
+##### 3.2.4. Se conecta el capacitor cerámico de 47 nF y de 100 nF en paralelo con el terminal tres del potenciometro y el Resistor 10kΩ.
 
 ![image](https://user-images.githubusercontent.com/93899658/151383217-6d95642c-4119-4bd7-8d1b-f1a45698b52e.png)
 
-3.2.5. Se conectan el diac y el triac.
+##### 3.2.5. Se conectan el diac y el triac.
 
       - El segundo terminal del triac se conecta a la linea del resistor de 1 kΩ
       - La compuerata G se conecta con el diac 
@@ -62,15 +62,15 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151384687-fff255ed-1bd0-4ea2-af22-0bb297588409.png)
 
-3.2.6. Para mayor facilidad se conecta en la linea de la resistencia positiva y en la linea negativa de los capacitores dos cables para realizar una extension.
+##### 3.2.6. Para mayor facilidad se conecta en la linea de la resistencia positiva y en la linea negativa de los capacitores dos cables para realizar una extension.
 
 ![image](https://user-images.githubusercontent.com/93899658/151397038-cf97ff7d-a945-42d4-945a-0a70d557de42.png)
 
-3.2.7. Conexión completa del circuito en el protoboard.
+##### 3.2.7. Conexión completa del circuito en el protoboard.
 
 ![image](https://user-images.githubusercontent.com/93899658/151397669-bf7c8cd2-4af4-4f0c-b91b-d36e3b86e683.png)
 
-3.2.8. Para la boquilla del foco.
+##### 3.2.8. Para la boquilla del foco.
 
       - Se conecta al puerto del neutro de la boquilla el cable que viene directo de la fuente.
       - Al puerto de fase de la boquilla se conecta un cable el cual será conectado a la línea positiva del protoboard.
@@ -78,18 +78,18 @@
 ![image](https://user-images.githubusercontent.com/93899658/151400732-c0ba8477-785a-4ffd-b657-2a0c33181b04.png)
 
 
-3.2.9. Se encaja el foco. 
+##### 3.2.9. Se encaja el foco. 
 
 ![image](https://user-images.githubusercontent.com/93899658/151401859-048d0af7-b134-4b0a-b71d-b5e083ceb572.png)
 
-3.2.10. Conectamos los terminales en la protoboard.
+##### 3.2.10. Conectamos los terminales en la protoboard.
 
       - El terminal que sale del foco se conecta a la línea del positivo del protoboard.
       - El terminal que viene directo de la fuente de C.A. se conecta a la línea del negativo del protoboard.
 
 ![image](https://user-images.githubusercontent.com/93899658/151402823-599f23b5-1e62-450f-922a-fbee4816757f.png)
 
-3.2.11. Se conecta a la fuente de corriente alterna de 110 V a 60 Hz.
+##### 3.2.11. Se conecta a la fuente de corriente alterna de 110 V a 60 Hz.
 
       - Se comienza a regular el potenciómetro hasta alcanzar el voltaje suficiente para que logre encender el foco.
       - Al regular se puede modificar la intensidad lumínica del foco.
