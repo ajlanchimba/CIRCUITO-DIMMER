@@ -96,15 +96,15 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151414839-bc2af994-ee6e-4657-b1f7-5fa2933a21ee.png)
 
-### 6. RESPUESTAS A INTERROGANTES
+### 4. RESPUESTAS A INTERROGANTES
 
-### 6.1 ¿En que se puede emplear un circuito dimmer?
+### 4.1 ¿En que se puede emplear un circuito dimmer?
 
 - Generalmente este tipo de circuitos nos permite tener un lugar con una iluminación variada.
 - También es aplicable para la regulación de la velocidad de un motor y con ellos utilizarlos en diferentes actividades.
 
 
-### 6.2 ¿Que funcion cumple el capacitor en el circuito Dimmer?
+### 4.2 ¿Que funcion cumple el capacitor en el circuito Dimmer?
 
 - El capacitor afecta un poco la dimerización, pues almacena cierta carga y le da una tolerancia mayor al circuito con respecto a voltajes erróneos.
 
