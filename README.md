@@ -1,10 +1,16 @@
 # CIRCUITO DIMMER
 1. OBJETIVOS
-1.1. OBJETIVO GENERAL 
-
-1.2. OBJETIVO ESPECIFICO
 
 
+3.1. OBJETIVO GENERAL 
+
+- Investigar y comprender el funcionamiento de un circuito Dimmer mediante la construcción del mismo.   
+
+1.2. OBJETIVOS ESPECIFICOS
+
+- Ampliar la vision del estudiante con la elaboracion de un circuito en forma fisica aplicando conocimientos teoricos y enfrentarlo a los posibles inconvenientes que surguen al momento de construir cualquier circuito.
+- Profundizar en los usos y aplicaciones de cada elemento utilizado en el circuito Dimmer.
+-    
 
 
 2. MARCO TEORICO
@@ -28,7 +34,7 @@
 |1|Boquilla foco|
 |1|Foco de 110V y 9W|
 |1|Clavija|
-|1|Fuente de C.A. 110V y 60 Hz|
+|1|Fuente de V.A. 110V y 60 Hz|
 
 3.2. Procedimiento
 
@@ -98,6 +104,9 @@ https://youtu.be/Anat-oSRWMA
 
 5. CONCLUSIONES 
 
+- Pasar un circuito de lo virtual a la realidad conlleva un esfuerzo adicional ya que se deben tomar en cuenta ciertos cuidados para que el proyecto tenga el exito esperado, para ello es necesario medir la continuidad entre cada uno de los elementos y utlizar el equipo adecuado puesto que de no hacerlo pueden causar daños al momento de energizar el circuito. 
+- En el estudio de los diodos empleados en el circuito Dimmer cada uno cumple una función especifica al momento de aplicarles voltaje alterno puesto que deforman la onda sinusoidal producida de tal manera que mediante el potenciómetro nos permite regular la intensidad de la luz del foco, aunque lo que realmente sucede es que el triac deja pasar cierta cantidad de voltaje en lapsos de milisegundos lo que hace que el foco se prenda y se apague de forma rápida el cual es difícil de percibirlos, pero si es evidente cuando disminuye la intensidad lumínica.   
+- 
 
 
 6. BOBLIOGRAFIAS 
