@@ -9,8 +9,7 @@
 ##### 1.2. OBJETIVOS ESPECÍFICOS
 
 - Ampliar la vision del estudiante con la elaboracion de un circuito en forma fisica aplicando conocimientos teoricos y enfrentarlo a los posibles inconvenientes que surguen al momento de construir cualquier circuito.
-- Profundizar en los usos y aplicaciones de cada elemento utilizado en el circuito Dimmer.
--    
+- Profundizar en los usos y aplicaciones de cada elemento utilizado en el circuito Dimmer.  
 
 
 ### 2. MARCO TEÓRICO
@@ -97,16 +96,27 @@
 
 ![image](https://user-images.githubusercontent.com/93899658/151414839-bc2af994-ee6e-4657-b1f7-5fa2933a21ee.png)
 
+### 6. RESPUESTAS A INTERROGANTES
 
-### 4. VIDEO
+### 6.1 ¿En que se puede emplear un circuito dimmer?
+
+- Generalmente este tipo de circuitos nos permite tener un lugar con una iluminación variada.
+- También es aplicable para la regulación de la velocidad de un motor y con ellos utilizarlos en diferentes actividades.
+
+
+### 6.2 ¿Que funcion cumple el capacitor en el circuito Dimmer?
+
+- El capacitor afecta un poco la dimerización, pues almacena cierta carga y le da una tolerancia mayor al circuito con respecto a voltajes erróneos.
+
+
+### 5. VIDEO
 
 https://youtu.be/Anat-oSRWMA
 
-### 5. CONCLUSIONES 
+### 6. CONCLUSIONES 
 
 - Pasar un circuito de lo virtual a la realidad conlleva un esfuerzo adicional ya que se deben tomar en cuenta ciertos cuidados para que el proyecto tenga el exito esperado, para ello es necesario medir la continuidad entre cada uno de los elementos y utlizar el equipo adecuado puesto que de no hacerlo pueden causar daños al momento de energizar el circuito. 
 - En el estudio de los diodos empleados en el circuito Dimmer cada uno cumple una función especifica al momento de aplicarles voltaje alterno puesto que deforman la onda sinusoidal producida de tal manera que mediante el potenciómetro nos permite regular la intensidad de la luz del foco, aunque lo que realmente sucede es que el triac deja pasar cierta cantidad de voltaje en lapsos de milisegundos lo que hace que el foco se prenda y se apague de forma rápida el cual es difícil de percibirlos, pero si es evidente cuando disminuye la intensidad lumínica.   
-- 
 
 
 ### 6. BOBLIOGRAFIAS 
