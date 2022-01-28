@@ -119,7 +119,7 @@ https://youtu.be/Anat-oSRWMA
 - En el estudio de los diodos empleados en el circuito Dimmer cada uno cumple una función especifica al momento de aplicarles voltaje alterno puesto que deforman la onda sinusoidal producida de tal manera que mediante el potenciómetro nos permite regular la intensidad de la luz del foco, aunque lo que realmente sucede es que el triac deja pasar cierta cantidad de voltaje en lapsos de milisegundos lo que hace que el foco se prenda y se apague de forma rápida el cual es difícil de percibirlos, pero si es evidente cuando disminuye la intensidad lumínica.   
 
 
-### 6. BOBLIOGRAFIAS 
+### 6. BIBLIOGRAFIAS 
 
 - areatecnologia.com. (s.f.). AREATECNOLOGIA. Obtenido de TRIAC: https://www.areatecnologia.com/electronica/triac.html
 
