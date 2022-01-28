@@ -2,18 +2,18 @@
 ### 1. OBJETIVOS
 
 
-###### 1.1. OBJETIVO GENERAL 
+##### 1.1. OBJETIVO GENERAL 
 
 - Investigar y comprender el funcionamiento de un circuito Dimmer mediante la construcción del mismo.   
 
-1.2. OBJETIVOS ESPECIFICOS
+1.2. OBJETIVOS ESPECÍFICOS
 
 - Ampliar la vision del estudiante con la elaboracion de un circuito en forma fisica aplicando conocimientos teoricos y enfrentarlo a los posibles inconvenientes que surguen al momento de construir cualquier circuito.
 - Profundizar en los usos y aplicaciones de cada elemento utilizado en el circuito Dimmer.
 -    
 
 
-### 2. MARCO TEORICO
+### 2. MARCO TEÓRICO
 
 ![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93899658/151405640-8e57000a-c158-4143-b8bb-8c8b5e6ea4eb.png)
 
