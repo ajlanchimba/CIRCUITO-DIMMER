@@ -9,8 +9,9 @@
 
 ##### 1.2. OBJETIVOS ESPECÍFICOS
 
-- Ampliar la vision del estudiante con la elaboracion de un circuito en forma fisica aplicando conocimientos teoricos y enfrentarlo a los posibles inconvenientes que surguen al momento de construir cualquier circuito.
+- Ampliar la visión del estudiante con la elaboración de un circuito en forma física aplicando conocimientos teóricos y enfrentarlo a los posibles inconvenientes que surgen al momento de construir cualquier circuito.
 - Profundizar en los usos y aplicaciones de cada elemento utilizado en el circuito Dimmer.  
+
 
 ### 2. MARCO TEÓRICO
 
