@@ -1,4 +1,5 @@
-# CIRCUITO DIMMER
+# Trabajo extra - Circuito Dimmer para el control de la intensidad de un foco de 110v
+
 ### 1. OBJETIVOS
 
 
