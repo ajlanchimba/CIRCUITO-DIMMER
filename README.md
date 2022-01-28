@@ -117,7 +117,7 @@ https://youtu.be/Anat-oSRWMA
 ### 6. CONCLUSIONES 
 
 - Pasar un circuito de lo virtual a la realidad conlleva un esfuerzo adicional ya que se deben tomar en cuenta ciertos cuidados para que el proyecto tenga el exito esperado, para ello es necesario medir la continuidad entre cada uno de los elementos y utlizar el equipo adecuado puesto que de no hacerlo pueden causar daños al momento de energizar el circuito. 
-- En el estudio de los diodos empleados en el circuito Dimmer cada uno cumple una función especifica al momento de aplicarles voltaje alterno puesto que deforman la onda sinusoidal producida de tal manera que mediante el potenciómetro nos permite regular la intensidad de la luz del foco, aunque lo que realmente sucede es que el triac deja pasar cierta cantidad de voltaje en lapsos de milisegundos lo que hace que el foco se prenda y se apague de forma rápida el cual es difícil de percibirlos, pero si es evidente cuando disminuye la intensidad lumínica.   
+- En el estudio de los diodos empleados en el circuito Dimmer cada uno cumple una función especifica al momento de aplicarles voltaje alterno puesto que deforman la onda sinusoidal producida de tal manera que mediante el potenciómetro nos permite regular la intensidad de la luz del foco, aunque lo que realmente sucede es que el triac deja pasar cierta cantidad de voltaje en lapsos de milisegundos lo que hace que el foco se prenda y se apague de forma rápida lo que es difícil de percibir, pero si es evidente cuando disminuye la intensidad lumínica.   
 
 
 ### 6. BIBLIOGRAFIAS 
